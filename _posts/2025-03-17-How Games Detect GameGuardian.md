@@ -6,7 +6,7 @@ categories: anti-hack
 tags: anti-modifier  gameguardian  modifier
 ---
 
-It has been observed that in recent years, there has been a significant trend of diversification in the angle of game black and gray industry attacks, facing a variety of security issues such as studios, custom injection cheats, auto click cheats, hack versions, memory modification cheats, and so on.<!-- more -->
+It has been observed that in recent years, there has been a significant trend of diversification in the angle of game black and gray industry attacks, facing a variety of security issues such as studios, custom injection cheats, auto click cheats, hack versions, memory modification cheats, and so on.<!-- more -->  
 
 According to JikGuard statistics, among the many security risks faced by the game, the “memory modification” attack accounts for about 11%, and the main way to realize it is to use memory modifiers to tamper with the game memory after obtaining high privileges.
 
