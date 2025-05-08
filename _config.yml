@@ -44,3 +44,10 @@ exclude:
 sass:
   style: compressed
 future: true
+
+excerpt_separator: '<!-- more -->'
+
+auto_excerpt:
+    enable: true
+
+future: true
