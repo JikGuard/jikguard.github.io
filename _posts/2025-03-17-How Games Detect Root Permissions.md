@@ -56,7 +56,7 @@ Unlike other products on the market, JikGuard Hardening uses a lower-level detec
 
 **Magisk Specialized Detection**
 
-JikGuard's exclusive detection program can accurately identify and pe
+JikGuard's exclusive detection program can accurately identify and perform flashing operations even if Magisk has all hidden options turned on.
 
 **Anti-Memory Modification**
 
