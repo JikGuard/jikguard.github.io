@@ -16,12 +16,12 @@ In Unity il2cpp mode, all the class/property/string information in C# will be re
 
 This mechanism is convenient for plugin creation/game hack. IL2cppDumper can parse the global-metadata.dat file and translate the class name/property name information into Native code, which is very convenient for reverse analysis.
 
-![315_21](/assets/res/2025/IL2cppDumper1.png)  
+![315_21](/assets/res/2025/IL2cppDumper13.png)  
 ▲ IL2cppDumper can parse .cs/.json files without encryption
 
 Drag the parsed .cs file into the Visual Studio parsing tool to analyze the source code directly:
 
-![315_21](/assets/res/2025/VisualStudio.png)  
+![315_21](/assets/res/2025/VisualStudio1.png)  
 ▲ Visual Studio can parse the code in a .cs file
 
 ◆ dnSpy
@@ -65,7 +65,7 @@ To encrypt libil2cpp.so file, it is necessary to deeply encrypt libil2cpp.so bec
 
 After encrypting libil2cpp.so, even if libil2cpp.so is dumped from memory, it will not be recognized by IL2cppDumper, the result is as below:
 
-![315_21](/assets/res/2025/IL2cppDumper2.png)  
+![315_21](/assets/res/2025/IL2cppDumper23.png)  
 ▲ After encryption, IL2cppDumper cannot parse it.
 
 **Unity AB Resource Encryption Program**
