@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Games Detect Root Permissions"
-date: 2025-03-17 16:30:00 +0800
+date: 2025-05-15 16:30:00 +0800
 categories: anti-hack
 tags: anti root  root detection  root
 ---
