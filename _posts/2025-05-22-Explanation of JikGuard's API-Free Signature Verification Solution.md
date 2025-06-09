@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Explanation of JikGuard's API-Free Signature Verification Solution"
-date: 2025-03-17 16:30:00 +0800
+date: 2025-05-22 16:30:00 +0800
 categories: anti-hack
 tags: Solution  JikGuard  Signature Verification
 ---
