@@ -10,11 +10,11 @@ In today's gaming market, mobile games have dominated the market. However, due t
 
 PlayCover is an assistive software that can run iOS programs on macOS, bypassing the Mac App Store's censorship and installing iOS Apps on Mac devices in the form of IPA files, with keyboard shortcut mapping, mouse operation mapping, and export/import features.
 
-![315_21](/assets/res/2025/playcover.png)  
+![315_21](/assets/res/2025/playcover1.png)  
 
 We can understand PlayCover as an “emulator” for Mac devices, after installing PlayCover on a Mac device, click “Add App” to select the IPA file you want to import, and PlayCover will perform a series of signature, modification and other functions on the App. After installing PlayCover on your Mac device, click “Add App” and select the IPA file you want to import, PlayCover will sign and modify the App, and install a series of auxiliary tools such as PlayTools, and then you can play the game normally.
 
-![315_21](/assets/res/2025/InstallPlayCover.png)  
+![315_21](/assets/res/2025/InstallPlayCover1.png)  
 Installing iOS Apps with PlayCover
 
 PlayCover itself has a very low threshold, the only difficulty is how to get the IPA file of the game you want to install.
