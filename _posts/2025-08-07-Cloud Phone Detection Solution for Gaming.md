@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloud Phone Detection Solution for Gaming"
-date: 2025-08-076:30:00 +0800
+date: 2025-08-07 16:30:00 +0800
 categories: anti-cheat
 tags: Cloud Phone  Detection
 ---
@@ -41,4 +41,5 @@ Some cloud phones can enable rooting for individual applications
 JikGuard has tailored a special strategy to deal with the risky environments faced by games such as cloud phones, and the solution has been connected to a number of popular games and proved to have excellent protection capabilities.
  
 **curity Risk Environment Detection**
+
 Unlike other products on the market, JikGuard's reinforcement adopts a more fundamental detection method to accurately distinguish the operating environment of the game, identifying various risky environments such as cloud phones, virtual machines, virtual frameworks, jailbreaks, ROOT, etc., and providing personalised crushing strategies.
