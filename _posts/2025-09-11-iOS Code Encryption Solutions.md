@@ -12,7 +12,7 @@ Unlike Android's open source ecosystem, iOS's closed source ecosystem's hardware
 
 According to JikGuard's observations, while the iOS system has a certain level of security, it is not without vulnerabilities, such as the common iOS jailbreak. After an iOS device is jailbroken, users can gain the highest level of system access and install third-party software outside the App Store using tools like the Cydia Manager.
 
-![315_21](/assets/res/2025/Cydia.png)  
+![315_21](/assets/res/2025/Cydia1.png)  
 iOS jailbreak symbol - installing Cydia Manager
 
 In the current game market, multi-terminal interconnection has become a trend. As a whole, any game security issue on any terminal will have a serious impact. In response to the challenge of anti-cheats for iOS games, JikGuard has developed a mature and comprehensive protection solution, which has been integrated into a number of popular games and verified to have excellent protection capabilities.  
@@ -23,7 +23,7 @@ JikGuard supports code logic obfuscation and string obfuscation, which are obfus
 
 Instead, it uses the HOOK Xcode execution process to minimise user onboarding costs and optimise the user experience, making it completely transparent to users.  
 
-![315_21](/assets/res/2025/JikGuardiOShardening.png)  
+![315_21](/assets/res/2025/JikGuardiOShardening1.png)  
 JikGuard iOS hardening solution obfuscation effect diagram
 
 ■ Code Behaviour Protection
@@ -53,5 +53,6 @@ Accurately verifies the signature in the package, uses the signature stored duri
 ▶ Anti-modifier
 
 During the code countermeasure protection phase, JikGuard provides local detection code and protects its validity.
+
 
 In addition, JikGuard has developed an online feature update detection feature, which can obtain samples and distribute features immediately, protecting the security of the App in the shortest possible time.
