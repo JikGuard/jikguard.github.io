@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How games detect speed-hack cheats"
-date: 2025-10-16 16:30:00 +0800
+date: 2025-10-23 16:30:00 +0800
 categories: anti-cheat
 tags: speed-hack  cheat engine  GameGuardian
 ---
@@ -53,5 +53,6 @@ Using more low-level detection methods and extensive testing on actual machines,
 For high-dimensional cheating problems, JikGuard delves into the low-level game engine to perform in-depth detection of speed hack, obtain specific speed hack multiples, accurately identify drive-level and process-level speed hacks, and configure crash handling or account suspension measures on its own.
 
 **Anti-cheat features**
+
 
 In response to the risk of a series of cheat modifications in games, JikGuard has developed a behaviour detection solution with a 300+ dimension intelligent perception system that can effectively protect against all types of cheats and their variants.
