@@ -20,7 +20,7 @@ In terms of the injection process, Android systems generally use SO injection, p
 
 After enabling the cheats and successfully injecting them into the game, the cheats call interface functions through menu operations, HOOK corresponding functions, rewrite parameters, or call logic to achieve the cheat functions.
 
-![315_21](/assets/res/2025/11205.png)  
+![315_21](/assets/res/2025/11206.png)  
 
 Observations indicate that injection cheats development carries high barriers to entry, involving substantial fees and restrictions on the number of users for identical cheats. With reduced sample data and certain features concealed, this poses a significant challenge to the detection accuracy of game security systems.
 
@@ -39,5 +39,6 @@ Utilizing JikGuard's industry-exclusive “API-free signature verification techn
 The use of third-party injectors such as Xposed and Frida is strictly prohibited to prevent malicious activities like modifying game memory after injection. Any detected instances will result in immediate force closure.
 
 **Anti-debugging features**
+
 
 Prevent Cheaters from debugging the game and block static or dynamic analysis of the game. Upon detection, the game will crash immediately.
