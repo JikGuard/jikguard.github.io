@@ -12,7 +12,7 @@ Due to their advantages—including flexible storage, support for hotfixes, comp
 
 AssetBundle files containing images, models, videos, and other resources are critical assets for games. If cracked by hackers or competitors to extract their contents, this could lead to severe issues such as plagiarism by rival products and damage to intellectual property rights.
 
-![315_21](/assets/res/2025/112701.png)  
+![315_21](/assets/res/2025/112701.jpg)  
 Halo 4 experienced an incident of art asset plagiarism
 
 Furthermore, cracking AssetBundle resources can severely impact game operations. For instance, in content-driven games, AssetBundles may store unreleased event assets. If these are prematurely unlocked and spoiled, it diminishes player surprise and event immersion, negatively affecting the game's operational rhythm.
@@ -59,5 +59,6 @@ The encryption algorithm employs highly customized obfuscation. This obfuscation
 Extremely simple to use—just run a single command line to encrypt all game resources.
 
 This command line encrypts game resources while also applying mono DLL encryption or il2cpp encryption to in-game scripts.
+
 
 Additionally, based on configuration options, multiple features can be added to further fortify game protection, including anti-hack, anti-cheat, anti-speed modification, anti-debugging, anti-virtual machine, and anti-cloud phone capabilities. This effectively addresses various security challenges faced by games. Currently, this solution has been integrated into multiple popular games and has demonstrated outstanding protection capabilities.
